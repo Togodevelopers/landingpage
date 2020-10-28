@@ -1,10 +1,10 @@
 # Landing Page
 
-Personal landing page for [lawalalao]()
+Personal landing page for [lawalalao](https://naughty-wozniak-12aa6b.netlify.app)
 
 Designed to keep simplicity in mind in both setup and UI.
 
-![Demo](https://i.imgur.com/bNMeNsv.png)
+![Demo](https://cdn.hashnode.com/res/hashnode/image/upload/v1603887433651/kC2rJ-b2A.png)
 
 ## Stack
 
