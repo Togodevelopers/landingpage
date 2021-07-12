@@ -1,6 +1,6 @@
 # Landing Page
 
-Personal landing page for [lawalalao](https://naughty-wozniak-12aa6b.netlify.app)
+Personal landing page for [you](https://naughty-wozniak-12aa6b.netlify.app)
 
 Designed to keep simplicity in mind in both setup and UI.
 
@@ -26,7 +26,7 @@ Couple custom dark themes for inspiration.
    
 ## Installation
 
-1. `git clone https://github.com/lawalalao/landing-page.git`
+1. `git clone git@github.com:Togodevelopers/landingpage.git`
 
 2. Open `index.html`. That's it!
 
